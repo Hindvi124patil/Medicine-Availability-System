@@ -41,3 +41,11 @@ This project reduces manual work and helps in efficient management of medical in
 
 ## ⭐ Conclusion
 The system provides an easy and efficient way to manage medicine data digitally.
+
+🌐 Live Demo
+
+https://hindvi124patil.github.io/Medicine-Availability-System/
+
+👨‍💻 Author
+
+Hindvi Kailas Patil
